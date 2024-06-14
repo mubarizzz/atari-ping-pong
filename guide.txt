@@ -1,0 +1,13 @@
+STRUCTURE:
+
+Results Folder - Contains results (images and demo videos) (DQN Ping Pong, DDQN Ping Pong, DQN Boxing)
+
+Models Folder:
+	DQN_Ping_Pong - Solving Ping Pong using DQN
+	DQN_Boxing - Solving Boxing game using DQN
+	DDQN_Ping_Pong.ipynb - Solving Ping Pong using DDQN modification
+
+
+INSTRUCTIONS TO RUN:
+
+After downloading the Jupyter Notebook locally on your computer and opening in e.g. Google Colab, run all the cells. All the imports are inline so you don't need to install anything explicitly.
